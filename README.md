@@ -1,2 +1,2 @@
 # Brainfuck
-Help me!
+Pls send help..
